@@ -3,10 +3,19 @@
   justify-content: center;
   align-items: center;
   display: flex;
+  
 }
-
+body{
+  background: linear-gradient(135deg, #ffeb3b, #00e676, #2196f3, #f44336, #ff5722);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+}
 h1 {
-  color: blue;
+  color: rgb(241, 9, 156);
 }
 
 .container {
